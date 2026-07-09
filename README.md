@@ -18,7 +18,7 @@ Dự án được phân chia thành các package chính để dễ dàng quản 
 
 1.  **Tải mã nguồn về máy (Clone project):**
     ```bash
-    git clone  https://github.com/latifhasan123/QuanLyCuaHangSach.git
+    git clone https://github.com/latifhasan123/QuanLyCuaHangSach.git
     ```
 2.  **Thiết lập Cơ sở dữ liệu (Database):**
     * Import file script SQL (nếu có) vào hệ quản trị cơ sở dữ liệu của bạn.
